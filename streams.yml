@@ -1,6 +1,2 @@
-jboss-openjdk18:
-  image: jboss/openjdk18-rhel7:1.1-41.1555516779
-nodejs-6:
-  image: rhscl/nodejs-6-rhel7:6-47.1556031291
 rhel:
   image: rhel7:7.5-409.1556622296
