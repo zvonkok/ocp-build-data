@@ -5,5 +5,3 @@ jboss-openjdk18: # https://brewweb.engineering.redhat.com/brew/packageinfo?packa
   image: jboss/openjdk18-rhel7:1.1-41.1555516779
 nodejs-6: # https://brewweb.engineering.redhat.com/brew/packageinfo?packageID=67372
   image: rhscl/nodejs-6-rhel7:6-47.1556031291
-
-
