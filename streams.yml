@@ -1,7 +1,3 @@
-ansible-runner:
-  image: ansible-runner:1.1.2-4.1557249266
-elasticsearch:
-  image: elasticsearch:5.6.13-2.1555516806
 jboss-openjdk18:
   image: jboss/openjdk18-rhel7:1.1-41.1555516779
 nodejs-6:
