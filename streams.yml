@@ -1,10 +1,7 @@
-ansible-runner:
-  image: ansible-runner:1.1.2-4.1557249266
-elasticsearch:
-  image: elasticsearch:5.6.13-2.1555516806
-jboss-openjdk18:
+---
+rhel: # https://brewweb.engineering.redhat.com/brew/packageinfo?packageID=67330
+  image: rhel7:7.7-161
+jboss-openjdk18: # https://brewweb.engineering.redhat.com/brew/packageinfo?packageID=66550
   image: jboss/openjdk18-rhel7:1.1-41.1555516779
-nodejs-6:
+nodejs-6: # https://brewweb.engineering.redhat.com/brew/packageinfo?packageID=67372
   image: rhscl/nodejs-6-rhel7:6-47.1556031291
-rhel:
-  image: rhel7:7.5-409.1556622296
