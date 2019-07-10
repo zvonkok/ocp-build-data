@@ -19,4 +19,4 @@ All changes to this repo must be submitted as pull requests against the appropri
 
 For examples with extensive comment documentation of the config data yaml files, see the [examples](https://github.com/openshift/ocp-build-data/tree/master/example) directory.
 
-For the full documentation on how to build your image or rpm with OCP, please check out our [SOP document on Mojo](https://mojo.redhat.com/docs/DOC-1179058)
+For the full documentation on how to build your image or rpm with OCP, please check out our [SOP document on Mojo](https://mojo.redhat.com/docs/DOC-1179058)foo
